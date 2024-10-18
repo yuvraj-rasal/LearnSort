@@ -1,6 +1,6 @@
 {
   "name": "front-end-made-easy",
-  "homepage":"https://suraj1849.github.io/SortingAlgo_Visualizer/",
+  "homepage":"https://yuvraj-rasal.github.io/LearnSort/",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
